@@ -14,10 +14,8 @@ BILIBILI-HELPER
 JD_Sign_Action  
 
 ### Personal: ⚡
-zhimengyaosin  
-zhimengyaosin.github.io
+http://cotangent.github.io  
 
-http://cotangent.github.io
 <!--
 ### Hi there 👋
 
