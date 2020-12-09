@@ -3,8 +3,6 @@
 </a>
 
 ## Welcome! 👋
-Allow me to introduce my hub~
-
 ### Open Source: 😄
 my-arduino-mouse
 
@@ -12,9 +10,6 @@ my-arduino-mouse
 CheckinBox  
 BILIBILI-HELPER  
 JD_Sign_Action  
-
-### Personal: ⚡
-http://zhimengyaosin.github.io  
 
 <!--
 ### Hi there 👋
