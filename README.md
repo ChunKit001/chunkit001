@@ -2,6 +2,8 @@
   <img width="100%" src="https://github.com/zhimengyaosin/zhimengyaosin/blob/main/github.jpg">
 </a>
 
+![zhimengyaosin's github stats](https://github-readme-stats-phi-cyan.vercel.app/api?username=zhimengyaosin&show_icons=true)
+
 ## Welcome! 👋
 ### Open Source: 😄
 my-arduino-mouse
