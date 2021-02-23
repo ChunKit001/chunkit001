@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/zhimengyaosin/zhimengyaosin/blob/main/github.jpg">
 </a>
 
-![zhimengyaosin's github stats](https://github-readme-stats-phi-cyan.vercel.app/api?username=zhimengyaosin&count_private=true&show_icons=true&theme=tokyonight)
+<div align="center"><img src="https://github-readme-stats-phi-cyan.vercel.app/api?username=zhimengyaosin&count_private=true&show_icons=true&theme=tokyonight" align="center"/></div>
 
 ## Welcome! 👋
 ### Open Source: 😄
