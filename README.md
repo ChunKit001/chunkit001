@@ -12,8 +12,6 @@
 <a href="https://github.com/zhimengyaosin/SeleniumSpider">SeleniumSpider</a>
 ### Github Action: 🌱
 CheckinBox  
-BILIBILI-HELPER  
-JD_Sign_Action  
 
 <!--
 ### Hi there 👋
