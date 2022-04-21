@@ -12,9 +12,6 @@
 
 <a href="https://github.com/zhimengyaosin/SeleniumSpider">SeleniumSpider</a>  
 
-### Github Action: 🌱  
-<a href="https://github.com/zhimengyaosin/CheckinBox">CheckinBox</a>
-
 <!--
 ### Hi there 👋
 
